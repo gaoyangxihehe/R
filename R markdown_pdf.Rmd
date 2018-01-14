@@ -1,0 +1,19 @@
+---
+title: "first markdown"
+author: "高阳"
+date: "`r format(Sys.time(), '%Y年%m月%d日')`"
+geometry: left = 3.18cm, right = 3.18cm, top = 2.0cm, bottom = 2.0cm
+fontsize: 12pt
+output: 
+        pdf_document: 
+                latex_engine: xelatex
+header-includes:
+- \usepackage{xeCJK}
+- \usepackage{graphicx}
+- \usepackage{fancyhdr}
+- \usepackage{setspace}
+- \usepackage{indentfirst}
+- \setmainfont{Times New Roman}
+- \setCJKmainfont{Microsoft YaHei}
+- \parindent 2 em
+---
