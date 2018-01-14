@@ -1,2 +1,3 @@
-# 介绍R语言
-分享R语言绘图、编程以及Rmarkdown中的代码
+# Rmarkdown的使用
+使用Rmarkdown输出pdf格式文件的代码
+使用Rmarkdown输出html格式文件的代码
